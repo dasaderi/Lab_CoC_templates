@@ -6,7 +6,7 @@
 The goal of this project is to encourage research laboratories to implement their Code of Conducts and share them with lab members. 
 
 ### Why is this necessary? Isn't common sense enough?
-Common sense is enough until it isn't. Common sense might mean different things to different individuals coming from different cultural and upbringing backgrouds. We believe code of conducts are not only good for establishing productive collaborations between lab members an helping build trust between mentor and mentee, but are also necessary in their attempt to clarify any confusion about what behavior is tolerated and what it is not.
+Common sense is enough until it isn't. Common sense might mean different things to different individuals coming from different cultural and upbringing backgrouds. We believe code of conducts are not only good for establishing productive collaborations between lab members and helping build trust between mentor and mentees, but are also necessary in their attempt to clarify any confusion about what behavior is tolerated and what it is not.
 
 ### How will we succeed?
 We are committed to working together to create templates that can be easily adapted by principal investigators, researcher lab managers, and program directors to best fit their necessity and institutions. However, we need your help to make these templates as thorough as possible. 
