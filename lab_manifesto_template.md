@@ -1,5 +1,7 @@
-# Lab Manifesto Template
-#### Adapted from the Freeman Lab Manifesto, the Klassen Lab Mentoring Expectations for Graduate Students, and the [Kirstie Withaker Lab Code of Conduct](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/CODE_OF_CONDUCT.md). 
+# Lab Manifesto Template 
+(1st draft and work in progress)
+
+#### The following document has been adapted from the Freeman Lab Manifesto, the Klassen Lab Mentoring Expectations for Graduate Students, and the [Kirstie Withaker Lab Code of Conduct](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/CODE_OF_CONDUCT.md). 
 
 This document is primarily aimed at graduate students pursuing a PhD or masters degree. If you are a staff member, 
 undergraduate, postdoc, or are joining the lab in some other capacity, let me know if you have questions about how this 
