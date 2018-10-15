@@ -16,7 +16,7 @@ Furthermore we would like to collect inforamation, even anectodal, about times y
 We are at the very beginning of this project, so we have not yet shared any content to which you could contribute directly on this repository (but stay tuned because we will have something very soon). But if you would like to help us build this project from the ground up, let us know by making an issue or email us at daniela.saderi@gmail.com. If you know of someone who has already worked or is currently working on a similar effort, also please let us know. Thank you!
 
 ### Who are 'We'?
-We are Glynis Mattheisen and Daniela Saderi, two PhD Students in the Neuroscience Graduate Program at Oregon Health & Science University, Portland Oregon (USA).
+We are Daniela Saderi, Ph.D. student, and Glynis Mattheisen, Ph.D., in the Neuroscience Graduate Program at Oregon Health & Science University, Portland Oregon (USA).
 
 
 
