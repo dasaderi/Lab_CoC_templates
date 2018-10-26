@@ -70,6 +70,8 @@ _PI NAME_, as head of the XX Lab, and all lab members, are dedicated to a harass
 of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, national origin, age or 
 religion. We do not tolerate harassment by and/or of members of our community in any form.
 
+To add: field work anti-harassment paragraph  
+
 **In summary:**  
 * All communication – online and in person – should be appropriate for a professional audience including people of many different backgrounds. 
 * Sexual language and imagery is not appropriate at any time.
