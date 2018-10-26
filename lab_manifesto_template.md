@@ -16,7 +16,7 @@ arise in the lab setting and reduces conflict or tension to make everyone’s in
 
 ### Responsibilities
 
-#### As a graduate student, it is your responsibility to:
+#### As a lab member*, it is your responsibility to:
 * Complete your degree. This includes classroom and laboratory work, which must be conducted at all times with professionalism, 
 self-motivation, engagement, scientific curiousity, and high ethical standards.
 * Be knowledgeable of the policies, deadlines, and requirements of the graduate program, the graduate school, and the university. 
@@ -29,6 +29,8 @@ and your course instructors is intended to improve you. Respect the wisdom of th
 Provide feedback on my mentoring to you. Not everyone has the same mentoring needs and personalities, so there will inevitably 
 be places where my efforts do not line up with your preferences. I am not infallible, but can only make adjustments when I know 
 that they are needed. 
+
+* This includes any lab member: *e.g.*, research assistants, graduate students (both MSc, and PhD), post-doctoral fellows.
 
 #### As a PI, it is my responsibility to:
 
