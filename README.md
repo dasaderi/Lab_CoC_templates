@@ -26,7 +26,7 @@ Here is the abstact for the session designed by Daniela Saderi and Robin Champie
 
 Please email Daniela at daniela.saderi@gmail.com for more info and questions.
 
-
+This repository was originally started by Glynis Mattheisen, PhD, and Daniela Saderi.
 
 
 
