@@ -23,11 +23,27 @@ _PI NAME_, as head of the XX Lab, and all lab members, are dedicated to a harass
 of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, national origin, age or 
 religion. We do not tolerate harassment by and/or of members of our community in any form.
 
+**In summary:**  
+* All communication – online and in person – should be appropriate for a professional audience including people of many different backgrounds. 
+* Sexual language and imagery is not appropriate at any time.
+* Be kind and respectful to others and their opinions. 
+* Do not insult or put down other lab members. Your ideas are not more valuable than others'.
+* Behave professionally.
+* Remember that harassment and sexist, racist, or exclusionary jokes will not be tolerated in this space. 
+
+Participants asked to stop any harassing or disrespectuf behavior are expected to comply immediately.
+Members of the XX lab who violate these rules – no matter how much they have contributed to the XX lab, or how specialized 
+their skill set – will be approached by _PI NAME_. If inappropriate behaviour persists after a discussion with _PI NAME_, 
+the perpetuator will be asked to discontinue their participation in XX lab projects.
+
 To report violation, you can do any of the following:
 * Please feel free to talk to me if the violation is perpetuated by any other laboratory member that is not myself
 * XX Office at XX institution for anonymous reporting 
 * XX Office at XX institunio for ...
+* XX person (this person could be the program director, another advisor, or HR appointed person) appointed specifically for any violation of this policy perpetuated by myself or another individual of the laboratory whose misconduct you are not comfortable discussing directly with me.
 * |add more here|
+
+
 
 ## Responsibilities
 
@@ -46,86 +62,70 @@ Provide feedback on my mentoring to you. Not everyone has the same mentoring nee
 be places where my efforts do not line up with your preferences. I am not infallible, but can only make adjustments when I know 
 that they are needed. 
 
-* TODO: adapt to other members of the lab: *e.g.*, research assistants and post-doctoral fellows.
+* TODO: adapt to fit or add from the perspective of other possible members of the lab: summer interns, research assistants, post-doctoral fellows.
 
 ## As a PI, it is my responsibility to:
 
-* Provide everyone under my supervision an environment that is intellectually stimulating, emotionally supportive, safe, 
-and free of harassment. I will enforce a culture governed by collegiality that values differences in personalities and opinions 
-(see below for the detailed version of the lab harassment-free policy).
-* Be committed to your research project. I will help you design an independent project within the scope of my lab's research 
-for your thesis. I will be intellectually committed to your research. This includes helping you to generate experimental and 
-theoretical ideas, interpreting and constructively criticizing your data and contextualizing it within a broader context, and 
-supporting you in presenting your ideas and results to the scientific community. 
-* Ensure that you receive training. I will provide resources and mentorship from both myself and senior lab members so that you 
-have the technical skills that you need to accomplish your research.  If the training you need does not fall within the lab’s 
+* **Provide everyone under my supervision an environment that is safe and free of harassment, intellectually stimulating, and emotionally supportive.** I will enforce a culture governed by collegiality that values differences in personalities and opinions.
+* **Be committed to your research project.** I will help you design an independent project within the scope of the lab's research 
+for your internship thesis, or post-doctoral work. I will be intellectually committed to your research. This includes helping you to generate experimental and theoretical ideas, interpreting and constructively criticizing your data and contextualizing it within a broader context, and supporting you in presenting your ideas and results to the scientific community. 
+* **Ensure that you receive appropriate training.** I will provide resources and mentorship from both myself and senior lab members so that you have the technical skills that you need to accomplish your research. If the training you need does not fall within the lab’s 
 expertise, we shall discuss opportunities for you to receive that training elsewhere, either through collaborations with other 
 laboratories or by attending workshops and classes outside of this University.
-* Lead by example and facilitate your training in complementary skills needed to be a successful scientist, such as oral and 
+* **Lead by example and facilitate your training in complementary skills needed to be a successful scientist**, such as oral and 
 written communication, applying for grants, lab management, mentoring, and scientific ethics and professionalism. I will 
 encourage you to seek teaching opportunities, even if not required for your degree, include you where appropriate in grant 
 writing and manuscript reviews, and provide opportunities for you to mentor junior researchers. I will enforce high standards 
 of scientific ethics and professionalism.  
-* Provide financial resources to you as appropriate and/or according to my institution's guidelines. To the best of my ability, 
+* **Provide financial resources to you as appropriate and according to this institution's guidelines.** To the best of my ability, 
 I will provide the resources that you need to conduct your experiments. In addition, I will support you in trying to obtain 
 external funding for your degree program.
-* Help you navigate your graduate program of study. You are responsible for keeping up with deadlines and being knowledgeable 
+* **Help you navigate your graduate program of study.** You are responsible for keeping up with deadlines and being knowledgeable 
 about requirements for your specific program. However, I am available to help interpret these requirements, select appropriate 
 coursework, and select committee members for your oral exams. 
-* Help you build your professional social networks, including presenting at scientific meetings. I will attempt, as funding 
+* **Help you build your professional social networks, including presenting at scientific meetings.** I will attempt, as funding 
 allows, to send you to a major conference every year when you have material to present. I will also help you to identify and 
 apply for travel fellowships to help pay for attending these conferences
-* Provide career advice and assist you in finding a position following your graduation. I will give advice and feedback on your 
+* **Provide career advice and assist you in finding a position following your graduation.** I will give advice and feedback on your 
 career goals, and encourage you to explore opportunities both outside and within academia as suits your interests and progress. 
 I will promptly provide honest letters of recommendation whenever they are requested of me.
 
-
-**In summary:**  
-* All communication – online and in person – should be appropriate for a professional audience including people of many different backgrounds. 
-* Sexual language and imagery is not appropriate at any time.
-* Be kind to others. 
-* Do not insult or put down other lab members.  
-* Behave professionally. 
-* Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.  
-
-Participants asked to stop any harassing behavior are expected to comply immediately.
-Members of the XX lab who violate these rules – no matter how much they have contributed to the XX lab, or how specialised 
-their skill set – will be approached by _PI NAME_. If inappropriate behaviour persists after a discussion with _PI NAME_, 
-the perpetuator will be asked to discontinue their participation in XX lab projects.
+* TODO: adapt to fit other possible members of the lab: summer interns, research assistants, post-doctoral fellows.
 
 ### Accommodations for Students with Disabilities
 For students with disabilities or specific medical needs, we will meet to discuss what accommodations should to be made to 
 your work schedule or lab responsibilities to facilitate your productivity in the lab without compromising on your physical or mental health. If changes in your needs occur over time, we will meet again to revise this accommodation. I promise to prioritize your health for the good of the lab community.
 
 ## Lab meetings
-Lab meetings will occur weekly. Attendance is required and it is imperative that you come prepared.  I will notify you of changes to the schedule at least a day in advance. In addition, I will meet individually with graduate students on a weekly basis to discuss progress on top of weekly lab meetings. The timing of these meetings may change depending on projects, pending publications, and your graduate defense. We will address this as needed.
+Lab meetings will occur weekly, unless interrupted by a reseach meting or a holiday. Attendance is required and it is important that you come prepared when it is your turn to share. I will notify you of changes to the schedule at least a day in advance. In addition, I will meet individually with graduate students on a weekly basis to discuss progress and help when needed. The timing of these meetings may change depending on projects, pending publications, and your graduate defense. We will address this as needed.
 
 ## Lab Documents
 It is your responsibility to maintain a detailed, organized, and accurate record of your research. Lab notebooks are lab 
 property and therefore must be maintained to a standard where they can be interpreted by others. Any computer code that you 
-generate must be properly documented and reproducible. Expect that all of your code will be published alongside manuscripts. 
-All raw data, metadata, analyzed data, manuscripts, figures, and coding developed in the lab are required to be available on a 
-shared drive and/or cloud. 
+generate must be properly documented to ensure its reproduciblity not only by others, but also by yourself when time passes. 
 
-## Presentations
-You will begin presenting your work in department seminars and external meetings as soon as you begin generating data. You will 
-engage fully in the scientific program of the conferences that you attend. These do not count as vacations or deduct from your 
-time off. You should aim to present at program and departmental seminars 2-3 times per year in addition to attending one 
+## Data and code management 
+TODO
+||All of your code will be published alongside manuscripts. All raw data, metadata, analyzed data, manuscripts, figures, and coding developed in the lab are required to be available on a shared drive and/or cloud.||
+
+## Presentations  
+Under my guidance, you are expected to be able to present your work in department seminars and external meetings as soon as you begin generating data. You will engage fully in the scientific program of the conferences that you attend. These do not count as vacations or deduct from your time off. You should aim to present at program and departmental seminars 2-3 times per year in addition to attending one 
 scientific conference per year. 
 
 ## Manuscripts
 Depending on your experience and level of comfort with writing a scientific manuscript, my level of engagement related to 
-writing it will change. It is often than case that the first first manuscript is  written largely by the PI and/or by any other 
+writing will change. It is often the case that the first manuscript is written largely by the PI and/or by any other 
 more senior author (e.g., a postdoc) who had contributed to the study, with lots of input from you, the trainee and first author 
-of the manuscript.  You will, for instance, be asked to make figures, help outline the flow, and edit the text. However, I 
+of the manuscript. You will, for instance, be asked to make figures, help outline the flow, and edit the text. However, I 
 expect you to be largely responsible for the writing of a second manuscript. 
+
+## Authorship
 Authorship is based on intellectual contributions to the content of the manuscript and not granted to those providing animal 
 models, reagents, or other resources. We will have a specific meeting to discuss authorship before preparing any and all 
 manuscripts. Any changes to this agreement will be promptly communicated and discussed with you.
 
 ## Time Off
-Graduate school is a commitment greater than an average job; working beyond a typical 40-hour work week is not unusual. I expect 
-you to be productive in your research and the other elements of your graduate program (teaching etc.). How you achieve this is 
+I expect you to be productive in your research and the other elements of your graduate program (teaching etc.). How you achieve this is 
 ultimately up to you and should be customized to fit your working style. If you or I feel like you are not progressing adequately, 
 you or I should discuss the situation and work together to find a more suitable and productive working schedule. 
 Vacations and work-life balance are important for creative thinking and good health. However, please consult with me before 
@@ -138,9 +138,9 @@ loss of productivity. When I am on vacation, I prefer to be contacted via email 
 
 ## Career Development
 It is your responsibility as a graduate student to actively cultivate your professional development in non-research contexts. Becoming a successful scientist requires more than just academic research. You are expected to continually develop as a teacher, as a scientific ambassador to the general public, and your scientific network. This may include taking advantage of professional programs offered through the university, active participation in external seminars, attending classes without direct applications to your research, conferences, workshops, and membership in professional societies. 
-If your participation in a career-building course, program, or event requires you to reduce your time spent by lab we will discuss it on a case-by-case basis. 
+If your participation in a career-building course, program, or event requires you to reduce your time spent by lab, we will discuss it on a case-by-case basis. 
 
 ## What is success?
-
+TODO
 
 
