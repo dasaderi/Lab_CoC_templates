@@ -1,4 +1,4 @@
-# Lab Manifesto Template 
+# Code of Conduct for Resaerch Laboratories – Template 1
 (1st draft and work in progress)
 
 #### The following document has been adapted from the Freeman Lab Manifesto, the Klassen Lab Mentoring Expectations for Graduate Students, and the [Kirstie Withaker Lab Code of Conduct](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/CODE_OF_CONDUCT.md). 
@@ -7,17 +7,33 @@ This document is primarily aimed at graduate students pursuing a PhD or masters 
 undergraduate, postdoc, or are joining the lab in some other capacity, let me know if you have questions about how this 
 document applies to you.
 
-### Purpose
+## Purpose
 This document should be viewed as a tool to initiate discussion during the early stages of the graduate program, with an 
 awareness that the relationship and expectations will evolve with time. The parties may wish to use this template not only 
 for verbal discussion but also as a written letter of understanding that will help to guide the relationship and expectations 
 of the student, their PI, and the relevant departments/faculties. The hope is that this agreement clarifies questions that 
 arise in the lab setting and reduces conflict or tension to make everyone’s interactions more enjoyable.  
 
-### Responsibilities
+## The XX Lab is committed to an harassment-free policy
+We value the participation of every member of our community and want to ensure that every member has an enjoyable and fulfilling 
+learning and working experience. Accordingly, everyone who participates in any XX Lab project is expected to show respect and 
+courtesy to other members at all time.
+To make clear what is expected, all members of the XX lab (including myself) must conform to the following Code of Conduct:
+_PI NAME_, as head of the XX Lab, and all lab members, are dedicated to a harassment-free experience for everyone, regardless 
+of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, national origin, age or 
+religion. We do not tolerate harassment by and/or of members of our community in any form.
 
-#### As a lab member*, it is your responsibility to:
-* Complete your degree. This includes classroom and laboratory work, which must be conducted at all times with professionalism, 
+To report violation, you can do any of the following:
+* Please feel free to talk to me if the violation is perpetuated by any other laboratory member that is not myself
+* XX Office at XX institution for anonymous reporting 
+* XX Office at XX institunio for ...
+* |add more here|
+
+## Responsibilities
+
+### As a graduate student, it is your responsibility to: 
+
+* Complete your degree. This includes classroom and laboratory work, which have to be conducted with professionalism, 
 self-motivation, engagement, scientific curiousity, and high ethical standards.
 * Be knowledgeable of the policies, deadlines, and requirements of the graduate program, the graduate school, and the university. 
 Comply with all institutional policies, including academic program milestones, laboratory practices, and rules related to 
@@ -30,9 +46,9 @@ Provide feedback on my mentoring to you. Not everyone has the same mentoring nee
 be places where my efforts do not line up with your preferences. I am not infallible, but can only make adjustments when I know 
 that they are needed. 
 
-* This includes any lab member: *e.g.*, research assistants, graduate students (both MSc, and PhD), post-doctoral fellows.
+* TODO: adapt to other members of the lab: *e.g.*, research assistants and post-doctoral fellows.
 
-#### As a PI, it is my responsibility to:
+## As a PI, it is my responsibility to:
 
 * Provide everyone under my supervision an environment that is intellectually stimulating, emotionally supportive, safe, 
 and free of harassment. I will enforce a culture governed by collegiality that values differences in personalities and opinions 
@@ -61,18 +77,8 @@ allows, to send you to a major conference every year when you have material to p
 apply for travel fellowships to help pay for attending these conferences
 * Provide career advice and assist you in finding a position following your graduation. I will give advice and feedback on your 
 career goals, and encourage you to explore opportunities both outside and within academia as suits your interests and progress. 
-I will promptly provide honest letters of recommendation whenever they are requested of me
+I will promptly provide honest letters of recommendation whenever they are requested of me.
 
-### The XX Lab is committed to an harassment-free policy
-We value the participation of every member of our community and want to ensure that every member has an enjoyable and fulfilling 
-learning and working experience. Accordingly, everyone who participates in any XX Lab project is expected to show respect and 
-courtesy to other members at all time.
-To make clear what is expected, I ask all members of the XX lab to conform to the following Code of Conduct:
-_PI NAME_, as head of the XX Lab, and all lab members, are dedicated to a harassment-free experience for everyone, regardless 
-of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, national origin, age or 
-religion. We do not tolerate harassment by and/or of members of our community in any form.
-
-To add: field work anti-harassment paragraph  
 
 **In summary:**  
 * All communication – online and in person – should be appropriate for a professional audience including people of many different backgrounds. 
@@ -91,23 +97,23 @@ the perpetuator will be asked to discontinue their participation in XX lab proje
 For students with disabilities or specific medical needs, we will meet to discuss what accommodations should to be made to 
 your work schedule or lab responsibilities to facilitate your productivity in the lab without compromising on your physical or mental health. If changes in your needs occur over time, we will meet again to revise this accommodation. I promise to prioritize your health for the good of the lab community.
 
-### Lab meetings
+## Lab meetings
 Lab meetings will occur weekly. Attendance is required and it is imperative that you come prepared.  I will notify you of changes to the schedule at least a day in advance. In addition, I will meet individually with graduate students on a weekly basis to discuss progress on top of weekly lab meetings. The timing of these meetings may change depending on projects, pending publications, and your graduate defense. We will address this as needed.
 
-### Lab Documents
+## Lab Documents
 It is your responsibility to maintain a detailed, organized, and accurate record of your research. Lab notebooks are lab 
 property and therefore must be maintained to a standard where they can be interpreted by others. Any computer code that you 
 generate must be properly documented and reproducible. Expect that all of your code will be published alongside manuscripts. 
 All raw data, metadata, analyzed data, manuscripts, figures, and coding developed in the lab are required to be available on a 
 shared drive and/or cloud. 
 
-### Presentations
+## Presentations
 You will begin presenting your work in department seminars and external meetings as soon as you begin generating data. You will 
 engage fully in the scientific program of the conferences that you attend. These do not count as vacations or deduct from your 
 time off. You should aim to present at program and departmental seminars 2-3 times per year in addition to attending one 
 scientific conference per year. 
 
-### Manuscripts
+## Manuscripts
 Depending on your experience and level of comfort with writing a scientific manuscript, my level of engagement related to 
 writing it will change. It is often than case that the first first manuscript is  written largely by the PI and/or by any other 
 more senior author (e.g., a postdoc) who had contributed to the study, with lots of input from you, the trainee and first author 
@@ -117,7 +123,7 @@ Authorship is based on intellectual contributions to the content of the manuscri
 models, reagents, or other resources. We will have a specific meeting to discuss authorship before preparing any and all 
 manuscripts. Any changes to this agreement will be promptly communicated and discussed with you.
 
-### Time Off
+## Time Off
 Graduate school is a commitment greater than an average job; working beyond a typical 40-hour work week is not unusual. I expect 
 you to be productive in your research and the other elements of your graduate program (teaching etc.). How you achieve this is 
 ultimately up to you and should be customized to fit your working style. If you or I feel like you are not progressing adequately, 
@@ -130,10 +136,11 @@ leave as required, and will determined this on a case-by-case basis.
 Before I take a vacation, I will provide the lab with at least one week notice so that we can all work around my absence without 
 loss of productivity. When I am on vacation, I prefer to be contacted via email in the case of lab-based emergencies.
 
-### Career Development
+## Career Development
 It is your responsibility as a graduate student to actively cultivate your professional development in non-research contexts. Becoming a successful scientist requires more than just academic research. You are expected to continually develop as a teacher, as a scientific ambassador to the general public, and your scientific network. This may include taking advantage of professional programs offered through the university, active participation in external seminars, attending classes without direct applications to your research, conferences, workshops, and membership in professional societies. 
 If your participation in a career-building course, program, or event requires you to reduce your time spent by lab we will discuss it on a case-by-case basis. 
 
 ## What is success?
+
 
 
