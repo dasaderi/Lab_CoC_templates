@@ -28,14 +28,17 @@ even anectodal, about times you were in a situation
 in which a code of conduct would have helped you better manage the problem.
 
 ### How can you contribute?
-We are at the very beginning of this project,
-so we have not yet shared any content to which you could contribute directly on this repository
-(but stay tuned because we will have something very soon).
-But if you would like to help us build this project from the ground up,
-let us know by making an issue or email us at daniela.saderi@gmail.com.
-If you know of someone who has already worked
-or is currently working on a similar effort,
-also please let us know.
+We are seeking contributors to lead the project 
+or to committ to supporting a project lead.
+
+Please sign up [to lead](https://github.com/dasaderi/Lab_CoC_templates/issues/6)
+or [to support](https://github.com/dasaderi/Lab_CoC_templates/issues/7).
+
+If you would like to just add comment on specific parts, or 
+point us to existing materials, similar projects, etc., 
+please make an issue. For more instructions on 
+how to contribute, refer to [CONTRIBUTING.md](https://github.com/dasaderi/Lab_CoC_templates/edit/master/CONTRIBUTING.md).
+
 Thank you!
 
 
