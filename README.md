@@ -4,7 +4,7 @@
 
 ### What is this project about?
 The goal of this project is to encourage research laboratories
-to implement their Codes of Conduct and share them with lab members.
+to implement their Codes of Conduct and share them with lab members by providing templates and resources to help others advocate and disseminate Lab Codes of Conduct in research laboratories.
 
 ### Why is this necessary? Isn't common sense enough?
 Common sense is enough until it isn't.
