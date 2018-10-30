@@ -21,6 +21,9 @@ or to committ to supporting a project lead.
 Please sign up [to lead](https://github.com/dasaderi/Lab_CoC_templates/issues/6)
 or [to support](https://github.com/dasaderi/Lab_CoC_templates/issues/7).
 
+To connect us with existing projects and materials related to this project, 
+please add links/comments to [issue #8](https://github.com/dasaderi/Lab_CoC_templates/issues/8).
+
 #### How to report bugs?
 
 There are bound to be bugs in any project, 
