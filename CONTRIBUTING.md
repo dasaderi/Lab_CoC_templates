@@ -1,4 +1,4 @@
-## How to contribute to this project Lab Code of Conduct Templates
+## CONTRIBUTING GUIDELINES
 
 Thank you for taking the time to contribute! We are excited to welcome contributors and we really value the time you take 
 to work with us on this project.
