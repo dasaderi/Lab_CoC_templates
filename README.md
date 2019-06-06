@@ -79,4 +79,4 @@ during OpenCon 2017 do-a-thon in Berlin
 
 Please email Daniela at daniela.saderi@gmail.com for more info and questions.
 
-This repository was originally started by Glynis Mattheisen, PhD, and Daniela Saderi.
+This repository was originally started by Glynis Mattheisen, Ph.D., and Daniela Saderi, Ph.D.
