@@ -1,6 +1,6 @@
 ## CONTRIBUTING GUIDELINES
 
-Thank you for taking the time to contribute! We are excited to welcome contributors and we really value the time you take 
+Thank you for taking the time to contribute! We are excited to welcome contributors and we really value the time you take
 to work with us on this project.
 
 ### How to contribute?
@@ -36,3 +36,7 @@ If you notice a bug, then raise an issue and label it with the label 'bug'.
 Then anyone in the contributing community can get right on it, and everything gets fixed faster.  
 THANK YOU!
 
+### Style Guide
+
+* Use [semantic line breaks](http://sembr.org/)
+    in markdown files
